@@ -1,0 +1,560 @@
+{
+    "id": "bcf82167-c945-4094-a155-ea6a9f169be3",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "8f4b58b2-19a1-4702-9433-f3924c35ba19",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "720a8180-ddb4-4f3e-ac07-f5d6e8aa1b8c",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "072af9c9-ee01-490f-86c3-d42683f00daf",
+            "Value": {
+                "id": "e2907de7-ef50-43c3-9bd4-d6267c04240f",
+                "resourcePath": "sprites\\sHexFactory4\\sHexFactory4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "09dfe8fb-ea11-41bc-976d-7d2d7e556f51",
+            "Value": {
+                "id": "0bf711da-36e2-4c63-99a1-bf101e8a920f",
+                "resourcePath": "objects\\oHexPlants1\\oHexPlants1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "101d7171-ccc4-42b4-a1b1-3a209bbc085d",
+            "Value": {
+                "id": "9947ea9e-4dfd-47b8-94bf-a54e0c575bb8",
+                "resourcePath": "sprites\\sLivingQuarters2\\sLivingQuarters2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "169491ee-89b5-4805-a9ec-79e7f0c2b3a2",
+            "Value": {
+                "id": "5915826a-e37a-4ca9-9c4a-5a209aa99e75",
+                "resourcePath": "scripts\\GetSurrounding\\GetSurrounding.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "19067dcf-17ac-499f-800a-5ec90b2269b3",
+            "Value": {
+                "id": "9755e574-d498-4e26-86ed-a7a0d007a166",
+                "resourcePath": "objects\\oHexHeadQuarters\\oHexHeadQuarters.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1abb0d44-617a-4082-96ea-5bdc6b3bb8df",
+            "Value": {
+                "id": "4c2592f7-4ee8-4eb4-9303-53247b2e293d",
+                "resourcePath": "views\\1abb0d44-617a-4082-96ea-5bdc6b3bb8df.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1bcd8c9a-38f6-4a14-93ba-76ce0dcabd98",
+            "Value": {
+                "id": "e870fbfd-e505-4ed1-8230-d08329dac026",
+                "resourcePath": "views\\1bcd8c9a-38f6-4a14-93ba-76ce0dcabd98.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1fa47b32-fbde-46b9-918c-1192e9d4452c",
+            "Value": {
+                "id": "12c809aa-3fb3-4995-a58a-6eb972656926",
+                "resourcePath": "sprites\\sHexPlants3\\sHexPlants3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25c0b1f2-9560-4da2-b65f-8fd97dc40888",
+            "Value": {
+                "id": "3f15e502-b33c-4a34-8064-ea3d56c56151",
+                "resourcePath": "sprites\\sHexStorage3\\sHexStorage3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "273a3233-7564-4f64-8d09-801917c44033",
+            "Value": {
+                "id": "8f42c492-0cec-4a9a-834e-cf79445bc763",
+                "resourcePath": "sprites\\sHexFactory1\\sHexFactory1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29dd9942-8898-44e5-9134-fb78a0b1a71e",
+            "Value": {
+                "id": "156ccca3-4662-43b7-a13b-ee7c44941f66",
+                "resourcePath": "sprites\\sHexOutpost1\\sHexOutpost1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29e55dcf-d3f0-4781-b4c5-a8c536ace526",
+            "Value": {
+                "id": "f94e008b-85fa-48c5-bb8b-fc9d4241c3bd",
+                "resourcePath": "sprites\\sHexStorage1\\sHexStorage1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2b1c6d98-003a-4c95-90e1-57591c75e2f9",
+            "Value": {
+                "id": "989a4ab7-cf1f-4c7c-92a2-bcf6fb03082b",
+                "resourcePath": "objects\\oHexCrystal2\\oHexCrystal2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2c51d697-0a42-494b-ad8d-bcc05fad6149",
+            "Value": {
+                "id": "6a178b86-690c-4959-bbbd-193cb23c40f5",
+                "resourcePath": "views\\2c51d697-0a42-494b-ad8d-bcc05fad6149.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "31ca5f62-cee7-4179-8bab-8a12bc89d366",
+            "Value": {
+                "id": "2dc86bf5-5fef-42ab-a8b9-f665bf53681d",
+                "resourcePath": "views\\31ca5f62-cee7-4179-8bab-8a12bc89d366.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3360b18f-73c2-4697-b9cc-0bd51c7a4e37",
+            "Value": {
+                "id": "f4698a0e-bf11-445d-922a-5cd58080c3d3",
+                "resourcePath": "views\\3360b18f-73c2-4697-b9cc-0bd51c7a4e37.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "353eb769-6042-48f0-82de-0ebb98120628",
+            "Value": {
+                "id": "53069c81-7ec1-4ed5-8d17-e9a5efe9cd92",
+                "resourcePath": "sprites\\sHexLivingQuarters1\\sHexLivingQuarters1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "37f65ca6-f463-4ddd-9248-2ab662357976",
+            "Value": {
+                "id": "09935747-7845-4403-8467-80bb33c5583c",
+                "resourcePath": "sprites\\sHexCrystal2\\sHexCrystal2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "387e2deb-991c-4edd-a4d0-69ce827ac42d",
+            "Value": {
+                "id": "873fab72-203b-4a9c-bfc6-3b1fb33c6f13",
+                "resourcePath": "views\\387e2deb-991c-4edd-a4d0-69ce827ac42d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39f8413e-b62d-4e0a-8aa4-842ad56a5e13",
+            "Value": {
+                "id": "f3f8645d-3d3a-4e58-bb4f-d950eae59c15",
+                "resourcePath": "objects\\Knight\\Knight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d0d856a-7333-429d-a4bb-1572cd8293db",
+            "Value": {
+                "id": "99213b6a-f695-4dc5-8221-474c82d90658",
+                "resourcePath": "views\\3d0d856a-7333-429d-a4bb-1572cd8293db.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3fd24a63-41ba-4ff2-b892-8f5975cdfef0",
+            "Value": {
+                "id": "22dba144-c34f-4896-b65f-b2ea6f5a4d5e",
+                "resourcePath": "sprites\\sHexWaterFacility\\sHexWaterFacility.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3fe6d99d-9346-46f7-98a3-589997dd3358",
+            "Value": {
+                "id": "a36726a5-b541-43af-85cb-f34e1498b018",
+                "resourcePath": "objects\\oHexRocks1\\oHexRocks1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "420e3e69-c2d1-4725-93ce-03454e32193d",
+            "Value": {
+                "id": "9f4dbc69-7cae-4b45-8939-7027e86cdf70",
+                "resourcePath": "sprites\\sHexHanger\\sHexHanger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "429182b0-7a37-493f-a463-4f18702e4f64",
+            "Value": {
+                "id": "80cbd992-3dcb-46e9-a8aa-7cf0dba2c4ec",
+                "resourcePath": "objects\\oHexRocks2\\oHexRocks2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42d47060-225d-4d0b-b6af-c0bd7d4818f1",
+            "Value": {
+                "id": "256fec4e-28ef-45e1-88fa-722d955f8de8",
+                "resourcePath": "views\\42d47060-225d-4d0b-b6af-c0bd7d4818f1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "454dae4d-6383-4b9e-aceb-635c258c264b",
+            "Value": {
+                "id": "ec1ae847-ab06-42c0-8f70-5b5a1ae7f913",
+                "resourcePath": "sprites\\sHexRocks2\\sHexRocks2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "48172608-bee3-4cb2-88b0-4f278ecda23e",
+            "Value": {
+                "id": "1bc3a038-942b-4aba-a76f-e556f4852103",
+                "resourcePath": "sprites\\sHexFactory2\\sHexFactory2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4d77521c-712e-4752-9f8b-cfd9dd4b3112",
+            "Value": {
+                "id": "a4dd87eb-7cca-46fb-bd62-16ce7855ef3f",
+                "resourcePath": "scripts\\GetSurroundingWithinRange\\GetSurroundingWithinRange.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "558f58f3-ea84-4410-bf99-8879d8642ba8",
+            "Value": {
+                "id": "cb677829-cb2a-4285-bf29-699c9769b61b",
+                "resourcePath": "views\\558f58f3-ea84-4410-bf99-8879d8642ba8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "64a74fdd-eca3-4535-ae2a-f9d10970f8a1",
+            "Value": {
+                "id": "8a0f941b-ba55-4bfa-94e8-0bfeb7bb2302",
+                "resourcePath": "objects\\oHexManager\\oHexManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "65c79d43-1783-44a3-a7e4-7df274bb0b61",
+            "Value": {
+                "id": "af82a78a-c889-4a94-aefc-f134b3e157ea",
+                "resourcePath": "views\\65c79d43-1783-44a3-a7e4-7df274bb0b61.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6694058f-0802-4098-a29a-9fa7dbc03217",
+            "Value": {
+                "id": "411124da-78fb-48e5-a865-7c0b1bf1178a",
+                "resourcePath": "sprites\\sCharacterFaces\\sCharacterFaces.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66c8c8c3-dae5-4fee-9575-06152f8dd471",
+            "Value": {
+                "id": "1cf624fe-5170-4190-bad0-1cc789c9a87b",
+                "resourcePath": "views\\66c8c8c3-dae5-4fee-9575-06152f8dd471.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "690ebec2-f495-4a54-93c0-0638112584da",
+            "Value": {
+                "id": "af8ee225-0f7f-44c2-90b6-718a01ffcccf",
+                "resourcePath": "sprites\\sHexOutpost2\\sHexOutpost2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73e88f92-eca2-486b-b3ce-0fe0282619fa",
+            "Value": {
+                "id": "4c7e0f01-706c-46eb-b9b9-f85112c59dd8",
+                "resourcePath": "sprites\\sHexSpaces\\sHexSpaces.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74bc3e90-7568-443c-ad75-e54f5d7db893",
+            "Value": {
+                "id": "6b3b1f02-588f-417f-a8bc-d66e5ddfe6c4",
+                "resourcePath": "sprites\\sHexGround\\sHexGround.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7c301803-f6c4-474b-a0aa-11ed18a2dcc8",
+            "Value": {
+                "id": "7c196241-848c-469b-9649-b2dd46f8e811",
+                "resourcePath": "objects\\oHexCrystal1\\oHexCrystal1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "836400be-acf5-4033-b6e5-c14c35b388ed",
+            "Value": {
+                "id": "3c188391-7559-47c4-89a8-19e9cc299efc",
+                "resourcePath": "views\\836400be-acf5-4033-b6e5-c14c35b388ed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87e6a327-7954-49e6-8379-ac411f8d87b4",
+            "Value": {
+                "id": "d13f4834-ea24-4d17-a831-4d6cbe53aeed",
+                "resourcePath": "sprites\\sHexRocks1\\sHexRocks1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ab08b1a-6a47-40fc-831a-bde7ba108b52",
+            "Value": {
+                "id": "d0888dd5-bac3-47f8-a0b0-c537b82da327",
+                "resourcePath": "objects\\oHexRocks3\\oHexRocks3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9661ef82-04d1-4690-854e-01323a3dd800",
+            "Value": {
+                "id": "55f26e89-1359-4029-88e9-a94c988dbf65",
+                "resourcePath": "views\\9661ef82-04d1-4690-854e-01323a3dd800.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "99f47a45-4736-4f31-a865-79fe75833d5e",
+            "Value": {
+                "id": "29d41d63-1b80-444d-88fe-7996b0d799c4",
+                "resourcePath": "sprites\\sHexHeadquarters\\sHexHeadquarters.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b104709-c587-4ca0-a9aa-38f827618b80",
+            "Value": {
+                "id": "a97593f8-2dfe-480f-ad29-763546272fa0",
+                "resourcePath": "objects\\Camera\\Camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0eab9fd-8562-40f6-b1a1-141eb39c1cde",
+            "Value": {
+                "id": "48c81d8f-5155-4fcd-b9a4-65edbfd5284f",
+                "resourcePath": "objects\\oHexPlants3\\oHexPlants3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a54c3816-4eca-4caa-ba93-88efa994eb9d",
+            "Value": {
+                "id": "cd434cb8-03b7-4796-8286-482410da77d7",
+                "resourcePath": "sprites\\sHexPlants1\\sHexPlants1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a6140ba2-0e29-4712-bf5b-fde9c9b9b82f",
+            "Value": {
+                "id": "d6f67ab2-cf26-4dd6-adc8-b3627c6b40b3",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "adb7ca17-253d-4081-8b7b-39244d62a1bf",
+            "Value": {
+                "id": "c28651ac-9413-44ec-a898-cc2caf77890c",
+                "resourcePath": "sprites\\sHexPort\\sHexPort.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc0f5de9-c744-4808-a2d9-9e85e2cc580e",
+            "Value": {
+                "id": "2166a8a6-7538-4ad4-8801-bfc828e36cf4",
+                "resourcePath": "objects\\oHexPlants2\\oHexPlants2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c5d2e468-28ac-418b-a4c0-0df9f9af7ae5",
+            "Value": {
+                "id": "edf51fa7-0b06-4e64-9b00-c924b8b7e28a",
+                "resourcePath": "views\\c5d2e468-28ac-418b-a4c0-0df9f9af7ae5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c73d1560-25af-4114-8768-387fabff301a",
+            "Value": {
+                "id": "c23b3a08-3c89-449f-8ef4-8387672b779d",
+                "resourcePath": "views\\c73d1560-25af-4114-8768-387fabff301a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c87c3f41-5dc5-4678-80fe-3480fb1723cd",
+            "Value": {
+                "id": "63fd4939-e099-4bb1-a71f-f376b56214ee",
+                "resourcePath": "sprites\\sHexCrystal1\\sHexCrystal1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "f7fac270-4f17-4b16-9c3e-ec30ac7ed9d8",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccd5fa77-5eee-4891-bdaa-dd982a6bdcb1",
+            "Value": {
+                "id": "fe7e683f-5839-4f56-a1c7-ebe9ba75e63e",
+                "resourcePath": "views\\ccd5fa77-5eee-4891-bdaa-dd982a6bdcb1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ce22f0fe-0f63-4744-ad96-d52e265d8c7c",
+            "Value": {
+                "id": "81b90bf8-4b97-49ca-bce8-30201a27050d",
+                "resourcePath": "sprites\\sLivingQuarters3\\sLivingQuarters3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3c1c4b7-913e-4265-ab76-02eb490898e4",
+            "Value": {
+                "id": "779778e2-bb7b-4494-bcf4-04dffa077d21",
+                "resourcePath": "rooms\\rm_grid\\rm_grid.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e5d37519-99a0-4193-af1b-ca762a177967",
+            "Value": {
+                "id": "e210faa7-29e6-459c-83a3-79d7640c1524",
+                "resourcePath": "sprites\\sHexRocks3\\sHexRocks3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6c08b70-26af-4b02-9674-0ce16df0933c",
+            "Value": {
+                "id": "db4009b0-00a1-47a4-b35c-a88606529674",
+                "resourcePath": "sprites\\sHexFactory3\\sHexFactory3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6ee1c81-752e-4df0-88da-735ed67fedbc",
+            "Value": {
+                "id": "a9384372-fa92-4cb1-b823-afbe7953e134",
+                "resourcePath": "sprites\\Shield\\Shield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb5a35c0-40a4-42b9-b4f1-f7284c76aebe",
+            "Value": {
+                "id": "f3fe1083-d970-464b-bcea-380ef9f7d4f8",
+                "resourcePath": "views\\eb5a35c0-40a4-42b9-b4f1-f7284c76aebe.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "edd39b9e-460d-4458-91ec-aadf964b7310",
+            "Value": {
+                "id": "b9c401a6-6352-4ef8-a5c9-e6106bc660de",
+                "resourcePath": "scripts\\GetXYFromColumnRow\\GetXYFromColumnRow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f203b8ae-a15f-4fc6-b8c0-6a1ebdbf4242",
+            "Value": {
+                "id": "00b673e1-f90d-4c71-b29b-d312332bef86",
+                "resourcePath": "views\\f203b8ae-a15f-4fc6-b8c0-6a1ebdbf4242.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f7b91c27-797f-4fcb-ac1e-655d4149b901",
+            "Value": {
+                "id": "32e51861-cba6-4f70-972d-170750537ca3",
+                "resourcePath": "sprites\\sHexPlants2\\sHexPlants2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fcd077bb-b686-4fd7-9804-6400ce1a4de6",
+            "Value": {
+                "id": "ce3cb619-b595-4157-baa1-bf9ab3d64923",
+                "resourcePath": "objects\\oHexGround\\oHexGround.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ffaa89aa-14cb-4760-9951-c70332ebea37",
+            "Value": {
+                "id": "974c6340-f295-4f3b-a251-9d89bbc0f4af",
+                "resourcePath": "sprites\\sHexStorage2\\sHexStorage2.yy",
+                "resourceType": "GMSprite"
+            }
+        }
+    ],
+    "script_order": [
+        "4d77521c-712e-4752-9f8b-cfd9dd4b3112",
+        "169491ee-89b5-4805-a9ec-79e7f0c2b3a2",
+        "edd39b9e-460d-4458-91ec-aadf964b7310"
+    ],
+    "tutorial": ""
+}
