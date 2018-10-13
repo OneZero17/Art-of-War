@@ -10,3 +10,8 @@ if (selectedPiece != undefined)
 }
 else
 	image_blend = c_white;
+	
+if (instance_position(mouse_x,mouse_y,oHexGround) == id) 
+	image_index = 1;
+else
+    image_index = 0;

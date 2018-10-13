@@ -20,9 +20,9 @@ for (var i = 0; i<argument1; i++)
 		size = ds_list_size(this_layer);
 		for (var k = 0; k < size; k++)
 		{
-			var current = this_layer[| k];
 			var idx = ds_list_find_index(list, this_layer[| k]);
-			if (idx == -1)
+			var knight = instance_position(this_layer[| k].x, this_layer[| k].y, Knight);
+			if (idx == -1 && knight < 0)
 			{
 				ds_list_add(list, this_layer[| k]);
 				add_number++;

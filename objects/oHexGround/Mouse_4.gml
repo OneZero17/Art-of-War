@@ -9,6 +9,6 @@ if (selectedPiece != undefined)
 		selectedPiece.y = y;
 		selectedPiece.row = row;
 		selectedPiece.column = column;
-		selectedPiece.surroundingList = GetSurroundingWithinRange(id, 3);
+		selectedPiece.surroundingList = 0;
 	}
 }
