@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "4c5324c6-f234-40e9-a30c-1e7260d079ca",
+            "Value": {
+                "id": "c46e70ce-4dbd-4a0c-b0d3-4906c7b15f45",
+                "resourcePath": "sprites\\sprite34\\sprite34.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d77521c-712e-4752-9f8b-cfd9dd4b3112",
             "Value": {
                 "id": "a4dd87eb-7cca-46fb-bd62-16ce7855ef3f",
@@ -1155,6 +1163,14 @@
             "Value": {
                 "id": "ce3cb619-b595-4157-baa1-bf9ab3d64923",
                 "resourcePath": "objects\\oHexGround\\oHexGround.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fd643ee7-9be7-4a39-865a-77d1684b896f",
+            "Value": {
+                "id": "65da57b9-b3c7-4f5e-8e18-e7be6a8be434",
+                "resourcePath": "objects\\Pointer\\Pointer.yy",
                 "resourceType": "GMObject"
             }
         },
