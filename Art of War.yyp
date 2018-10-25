@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "28d61c10-5cbc-4556-8507-fe213a61bfb6",
+            "Value": {
+                "id": "cf9b616e-0984-4ded-8b76-a5e5e43119f1",
+                "resourcePath": "sprites\\ButtonFrameSP\\ButtonFrameSP.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29dd9942-8898-44e5-9134-fb78a0b1a71e",
             "Value": {
                 "id": "156ccca3-4662-43b7-a13b-ee7c44941f66",
@@ -434,7 +442,7 @@
             "Key": "4c5324c6-f234-40e9-a30c-1e7260d079ca",
             "Value": {
                 "id": "c46e70ce-4dbd-4a0c-b0d3-4906c7b15f45",
-                "resourcePath": "sprites\\sprite34\\sprite34.yy",
+                "resourcePath": "sprites\\PointerSP\\PointerSP.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -452,6 +460,14 @@
                 "id": "76cc62d5-57f0-4a4a-bf83-69740d82f182",
                 "resourcePath": "scripts\\ui_draw_sprite_panel\\ui_draw_sprite_panel.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4fc88644-416a-428f-821a-8989f85bbb35",
+            "Value": {
+                "id": "fea13ee7-8338-45db-97e5-ce41c069c055",
+                "resourcePath": "sprites\\MoveSP\\MoveSP.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -699,6 +715,14 @@
             "Value": {
                 "id": "27e97278-8021-4d48-8fee-e8c4d2b80122",
                 "resourcePath": "objects\\objZUIDummy\\objZUIDummy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "95fbdcbd-92ba-45b1-9be3-155aaedfa0fc",
+            "Value": {
+                "id": "dc3d8a36-54e9-4d98-be49-2d21dd27bb5f",
+                "resourcePath": "objects\\ButtonFrame\\ButtonFrame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1155,6 +1179,14 @@
             "Value": {
                 "id": "32e51861-cba6-4f70-972d-170750537ca3",
                 "resourcePath": "sprites\\sHexPlants2\\sHexPlants2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f8fc09b5-cffa-4a6d-91c9-c5e4979bbd6f",
+            "Value": {
+                "id": "9278024f-fd99-48c5-aa88-cabb7500d084",
+                "resourcePath": "sprites\\AttackSP\\AttackSP.yy",
                 "resourceType": "GMSprite"
             }
         },

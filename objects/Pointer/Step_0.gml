@@ -4,7 +4,7 @@
 if (speedup)
 {
 	image_angle+=rotateAngle;
-	rotateAngle+=0.5;
+	rotateAngle+=0.7;
 }
 else
 {
@@ -12,8 +12,8 @@ else
 	rotateAngle-=1;
 }
 
-if (rotateAngle > 15)
+if (rotateAngle > 20)
 	speedup = false;
 	
-if (rotateAngle < -5)
+if (rotateAngle < -7.5)
 	speedup = true;
