@@ -20,6 +20,3 @@ if (selectedPiece != id) {
 	image_blend = c_blue;
 }
 
-if(selectedPiece == id)
-	surroundingList = GetSurroundingWithinRange(instance_nearest(x,y, oHexGround), 3);
-

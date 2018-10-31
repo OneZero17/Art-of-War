@@ -6,6 +6,8 @@ global.y_size = 105;
 
 globalvar selectedPiece;
 selectedPiece = undefined;
+globalvar buttonFrame;
+buttonFrame = undefined;
 
 ds_grid_clear(grid,0);
 
@@ -28,7 +30,7 @@ for (var i = 0; i< 10; i++)
 {
 	var rownum = 5;
 	XY = GetXYFromColumnRow(rownum, i);
-	var knight = instance_create_depth( XY[0], XY[1], 0, Knight);
+	var knight = instance_create_depth( XY[0], XY[1], 5, Knight);
 	knight.row = rownum;
 	knight.column = i;
 	knight.image_xscale = 0.06;

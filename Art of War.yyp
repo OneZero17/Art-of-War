@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "22b16069-5841-46c4-8c01-145f309ab0be",
+            "Value": {
+                "id": "1be28779-f893-4bed-b394-81ed02551db6",
+                "resourcePath": "objects\\ButtonBase\\ButtonBase.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25c0b1f2-9560-4da2-b65f-8fd97dc40888",
             "Value": {
                 "id": "3f15e502-b33c-4a34-8064-ea3d56c56151",
@@ -847,6 +855,14 @@
             }
         },
         {
+            "Key": "aedb256f-b708-43bb-b804-6fc28aa8d955",
+            "Value": {
+                "id": "09f7eccc-0ec4-4a8e-b2ef-6ecf4bfbeb98",
+                "resourcePath": "objects\\MoveButton\\MoveButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af3124ac-5665-432d-881a-d4b0359e7300",
             "Value": {
                 "id": "551a03a6-932e-41c3-9980-64736900cd98",
@@ -972,6 +988,14 @@
                 "id": "fe7e683f-5839-4f56-a1c7-ebe9ba75e63e",
                 "resourcePath": "views\\ccd5fa77-5eee-4891-bdaa-dd982a6bdcb1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cdc58366-8d17-431c-8d75-c2696d8b01c7",
+            "Value": {
+                "id": "d9567061-4f1d-42d9-bbc3-f70557bf5ade",
+                "resourcePath": "objects\\AttackButton\\AttackButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

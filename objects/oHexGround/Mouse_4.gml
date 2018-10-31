@@ -10,5 +10,6 @@ if (selectedPiece != undefined)
 		selectedPiece.row = row;
 		selectedPiece.column = column;
 		selectedPiece.surroundingList = 0;
+		instance_destroy(buttonFrame.id);
 	}
 }
