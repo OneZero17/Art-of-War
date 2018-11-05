@@ -5,9 +5,11 @@ global.x_size = 120;
 global.y_size = 105;
 
 globalvar selectedPiece;
-selectedPiece = undefined;
 globalvar buttonFrame;
-buttonFrame = undefined;
+globalvar healthBar;
+selectedPiece = -1;
+buttonFrame = -1;
+healthBar = -1;
 
 ds_grid_clear(grid,0);
 

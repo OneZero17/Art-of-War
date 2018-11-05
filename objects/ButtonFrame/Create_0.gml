@@ -5,3 +5,5 @@ image_yscale = 0.2;
 
 moveButton = 0;
 attackButton = 0;
+mouseOn = false;
+

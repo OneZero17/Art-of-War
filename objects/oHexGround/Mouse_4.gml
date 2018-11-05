@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (selectedPiece != undefined)
+if (selectedPiece != -1)
 {
 	var idx = ds_list_find_index(selectedPiece.surroundingList, id);
 	if(idx != -1)
@@ -10,6 +10,5 @@ if (selectedPiece != undefined)
 		selectedPiece.row = row;
 		selectedPiece.column = column;
 		selectedPiece.surroundingList = 0;
-		instance_destroy(buttonFrame.id);
 	}
 }

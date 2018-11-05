@@ -10,7 +10,7 @@ checkConnection = false;
 
 
 level = 1;
-health = 5;
+fullHealth = 5;
 attack = 1;
 
 with(oHexGround) {

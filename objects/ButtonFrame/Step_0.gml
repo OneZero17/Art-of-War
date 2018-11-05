@@ -16,5 +16,11 @@ else
 	
 }
 
-
+if (instance_position(mouse_x,mouse_y,ButtonFrame) == id)
+	mouseOn = true;
+	
+moveButton.x = x + sprite_width/2;
+moveButton.y = y + sprite_height/4;
+attackButton.x = x + sprite_width/2;
+attackButton.y = y + 3* sprite_height /4;
 	

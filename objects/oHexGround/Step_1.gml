@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (selectedPiece != undefined)
+if (selectedPiece != -1)
 {
 	var idx = ds_list_find_index(selectedPiece.surroundingList, id);
 	if (idx == -1)
