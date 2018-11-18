@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "AttackButton",
     "eventList": [
-        
+        {
+            "id": "e8262dea-bf85-47f9-ab3d-d34c0a1532d4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "cdc58366-8d17-431c-8d75-c2696d8b01c7"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

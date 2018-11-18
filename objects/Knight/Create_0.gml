@@ -11,6 +11,7 @@ checkConnection = false;
 
 level = 1;
 fullHealth = 5;
+currentHealth = 5;
 attack = 1;
 
 with(oHexGround) {

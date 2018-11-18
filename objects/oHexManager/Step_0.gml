@@ -40,7 +40,23 @@ if (selectedPiece != -1 && buttonFrame != -1)
 }
 
 // Relation between selected piece and display health bar
-
+if (selectedPiece != -1)
+{
+	if (healthBar == -1)
+	{
+		healthBar = instance_create_depth( 10, 200, 3, Healthbar)
+	}
+		healthBar.maxHP = 100*selectedPiece.fullHealth;
+		healthBar.hp = 100*selectedPiece.currentHealth;
+}
+else
+{
+	if (healthBar != -1)
+	{
+		instance_destroy(healthBar);
+		healthBar = -1;
+	}
+}
 
 
 
