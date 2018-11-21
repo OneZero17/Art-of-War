@@ -3,3 +3,8 @@
 
 rotateAngle = 0;
 speedup = true;
+maxShadowNum=4;
+currentShadowNum = 0;
+isShadow=false;
+initialShadowAplha = 0.5;
+timeCount = 0;
